@@ -1,0 +1,22 @@
+{
+  "wheel_id": 752,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-110",
+  "project": "excavation-services-toowoomba-local-options-compared-7d42686f1d",
+  "parent_t1_ref": "earthmovingtoowoomba-154",
+  "node_role": "feeder",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "excavation services toowoomba local options compared",
+  "intended_url": "https://sites-e470-2.web.app/excavation-services-toowoomba-local-options-compared-7d42686f1d/",
+  "tier": "T2",
+  "writeback_nonce": "89dfe1882782fa70",
+  "links": [
+    {
+      "target_url": "http://excavation-services-toowoomba-eb2663c377ec9a1442ec12baecac643f9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "a guide to excavation services toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
